@@ -1,7 +1,7 @@
 ## 👋 Olá ! Bem-Vindo ao Github de Tiago Domingos Figueiredo 
 
 
-- 👀 I’m interested in ... Play Games and Study
+- 👀 I’m interested in ... VideoGames and Study
 - 🌱 I’m currently learning ... Aws | Cloud
 - 📫 How to reach me ... tiagod.figueiredo@gmail.com
 
